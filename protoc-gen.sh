@@ -1,6 +1,6 @@
 #!/bin/bash
 
-XRAY_CORE=./xray-core
+XRAY_CORE=./Xray-core
 OUT=./gen
 
 mkdir -p $OUT
